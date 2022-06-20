@@ -126,3 +126,11 @@ As a data scientist, I believe in the CRISP-DS methodology for project resolutio
   <img src="/images/h1.png" width="750" height="500" />
 </p>
 </div>
+
+***
+Made By **Camila D'Angelo**
+
+- 🔭 I’m currently working on DS community
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: 
+[LinkeldIn](https://www.linkedin.com/in/camiladangelotempesta/)
