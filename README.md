@@ -22,7 +22,6 @@ Its main objective is to obtain the best properties to obtain the best deals for
  * Thus, the two partners hired a Data Science consultancy to answer the following questions:
       * Questions:
            * **1. What properties should House Rocket Company buy?**
-           * **2. Once these properties are acquired, at what price should they be resold?**
            
 ***           
 ## 2. BUSINESS ASSUMPTIONS
@@ -90,7 +89,6 @@ As a data scientist, I believe in the CRISP-DS methodology for project resolutio
   <img src="/images/h2_1.png" width="500" height="400" />
 </p>
 </div>
-
 
 **Hypothesis 03:** 
  - *Reply:* **False**.
