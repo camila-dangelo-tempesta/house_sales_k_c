@@ -130,6 +130,16 @@ As a data scientist, I believe in the CRISP-DS methodology for project resolutio
 </div>
 
 ***
+# 5. BUSINESS RESULTS 
+***
+
+<div align="center">
+<p float="left">
+  <img src="/images/dashboard.png" width="1000" height="500"/>
+  <img src="/images/dashboard_1.png" width="1000" height="500"/>
+</p>
+</div>
+***
 Made By **Camila D'Angelo**
 
 - 🔭 I’m currently working on DS community
