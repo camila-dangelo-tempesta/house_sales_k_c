@@ -26,7 +26,8 @@ Its main objective is to obtain the best properties to obtain the best deals for
 ***           
 ## 2. BUSINESS ASSUMPTIONS
 
-* Dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/shivachandel/kc-house-data)) 
+* Dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/shivachandel/kc-house-data)
+* Dataset was obtained from [Map]()
 
 The variables created during project development are
 
