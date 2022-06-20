@@ -57,9 +57,7 @@ As a data scientist, I believe in the CRISP-DS methodology for project resolutio
 - [x] **Step 02:** **Feature Engineering**: Derive new attributes based on the original variables to better describe the phenomenon that will be modeled.
   - Hypoteses Mindmap
   - Missing values
-  - Outlier manipulation
   - Binning
-  - One-hot encoding
   - Grouping
 
 - [x] **Step 03:** **Data Filtering**: Filter rows and select columns that do not contain information for modeling or that do not match the scope of the business
@@ -74,3 +72,65 @@ As a data scientist, I believe in the CRISP-DS methodology for project resolutio
 ***
 ## 4. TOP 5 DATA INSIGHTS
 
+**Hypothesis 01:** 
+ - *Reply:* **False**.
+
+<div align="center">
+<p float="left">
+  <img src="/images/.png" width="750" height="500" />
+</p>
+</div>
+
+**Hypothesis 02:** 
+ - *Reply:* **False**.
+
+<div align="center">
+<p float="left">
+  <img src="/images/.png" width="750" height="500" />
+</p>
+</div>
+
+
+**Hypothesis 03:** 
+ - *Reply:* **False**.
+
+<div align="center">
+<p float="left">
+  <img src="/images/.png" width="750" height="500" />
+</p>
+</div>
+
+**Hypothesis 04:** 
+ - *Reply:* **True**.
+
+<div align="center">
+<p float="left">
+  <img src="/images/.png" width="750" height="500" />
+</p>
+</div>
+
+**Hypothesis 05:** 
+ - *Reply:* **False**.
+
+<div align="center">
+<p float="left">
+  <img src="/images/.png" width="750" height="500" />
+</p>
+</div>
+
+**Hypothesis 06:** 
+ - *Reply:* **True**.
+
+<div align="center">
+<p float="left">
+  <img src="/images/h1.png" width="750" height="500" />
+</p>
+</div>
+
+***
+Made By **Camila D'Angelo**
+
+- 🔭 I’m currently working on DS community
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: 
+[LinkeldIn](https://www.linkedin.com/in/camiladangelotempesta/)
