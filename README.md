@@ -27,8 +27,22 @@ Its main objective is to obtain the best properties to obtain the best deals for
 ***           
 ## 2. BUSINESS ASSUMPTIONS
 
+* Dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/shivachandel/kc-house-data)) 
+
+The variables created during project development are
+
+Variable | Definition
+:------------: | :-------------:
+| | |
+| | |
+| | |
+| | |
+| | |
+
 ***
 ## 3. SOLUTION PLANNING
+
+As a data scientist, I believe in the CRISP-DS methodology for project resolution and rapid value delivery. My project followed the following steps based on this methodology:
 
 - [x] **Step 01:** **Data Description**:  My goal is to use statistics metrics to identify data outside the scope of business.
   - Data Dimension
@@ -51,4 +65,12 @@ Its main objective is to obtain the best properties to obtain the best deals for
 - [x] **Step 03:** **Data Filtering**: Filter rows and select columns that do not contain information for modeling or that do not match the scope of the business
   - Line filtering
   - Selection of columns
+
+- [x] **Step 04:** Exploratory Data Analysis:Explore the data to find insights and better understand the impact of variables on model learning. - Line filtering
+  - Univariate Analysis
+  - Bivariate Analysis
+  - 
+
+***
+## 4. TOP 5 DATA INSIGHTS
 
