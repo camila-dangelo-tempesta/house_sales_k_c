@@ -69,7 +69,7 @@ As a data scientist, I believe in the CRISP-DS methodology for project resolutio
 - [x] **Step 04:** Exploratory Data Analysis:Explore the data to find insights and better understand the impact of variables on model learning. - Line filtering
   - Univariate Analysis
   - Bivariate Analysis
-  - 
+  - Multivariate analysis
 
 ***
 ## 4. TOP 5 DATA INSIGHTS
